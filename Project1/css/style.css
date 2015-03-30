@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+hr
+{
+  border: 0;
+  border-top: 2px solid #BCBBBB;
+}
+body
+{
+	font-family: 'Lato', sans-serif;
+	color:#747704;
+	font-weight:300;
+	margin-bottom:20px;
+}
+.text-muted {
+	color:#BCBBBB;
+}
+.text-thin {
+	font-weight:100;
+}
+.title-logo {
+	margin-top:20px;
+}
+.title-super {
+	font-size:60px;
+}
+
+
+
+  
+
